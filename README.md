@@ -29,7 +29,7 @@
 
 ### Deployment Method
 ---
-1. Click [SCAN](https://secktorbot.herokuapp.com/session) and scan QR code. `Whatapp>Three dots>Linked Devices`
+1. Click [SCAN](https://ZEAL-MD.herokuapp.com/session) and scan QR code. `Whatapp>Three dots>Linked Devices`
 2. You will get a session id in whatsapp, copy id only.
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4.  Grab a Mongodb uri from [Mongodb](signup.mongodb.com) for more instructions check yt video [Youtube Video](https://youtu.be/4u0uv3IiAAc).
